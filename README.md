@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nada Shawer</h1>
-<h3 align="center">A passionate Data Scientist & AI from Egypt/Canada</h3>
+<h1 align="center">Hi 👋, I'm Nada</h1>
+<h3 align="center">A passionate aspiring Data Scientist & ML Engineer from Egypt</h3>
 
 - 🌱 I’m currently learning **data science and Artificial Intelligence.**
 
@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/nadasshawer/](https://www.linkedin.com/in/nadasshawer/)
 
-- ⚡ Fun fact **I love**
+- ⚡ Fun fact **I'm a dog lover!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
