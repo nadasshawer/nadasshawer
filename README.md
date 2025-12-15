@@ -4,9 +4,9 @@
 </p>
 
 <!-- Greeting -->
-<h2 align="center" style="font-family: 'Arial', sans-serif; font-weight:bold; color:#4DA3FF; margin-bottom:0;">
+<h1 align="center" style="font-family: 'Arial', sans-serif; font-weight:bold; color:#4DA3FF; margin-bottom:0;">
   Hi, I'm Nada
-</h2>
+</h1>
 
 <!-- Fancy Animated Line right under greeting -->
 <p align="center" style="margin-top:4px;">
@@ -20,9 +20,10 @@
 </p>
 
 <!-- Contact Info as Emojis -->
-<p align="center" style="font-size:22px; margin-top:8px;">
-  Email Me <a href="mailto:nadashawer@gmail.com"> </a> &nbsp; • &nbsp; Let's Connect <a href="https://www.linkedin.com/in/nadasshawer"> </a> &nbsp; • &nbsp; Digital Portfolio <a href="https://fuzzy-travelers-171675.framer.app"> </a>
+<a href="mailto:nadashawer@gmail.com">Email Me</a> &nbsp; • &nbsp; <a href="https://www.linkedin.com/in/nadasshawer">Let's Connect</a> &nbsp; • &nbsp; <a href="https://fuzzy-travelers-171675.framer.app">Digital Portfolio</a>
 </p>
+
+<hr>
 
 <!-- About Me -->
 <p align="center" style="margin-top:12px;">
@@ -31,9 +32,9 @@
 </p>
 
 <!-- My Stack Header -->
-<h4 align="center" style="font-family: 'Arial', sans-serif; font-weight:bold; color:#1F8FFF; margin-top:16px;">
+<h2 align="center" style="font-family: 'Arial', sans-serif; font-weight:bold; color:#1F8FFF; margin-top:16px;">
   My Stack
-</h4>
+</h2>
 
 <!-- Tech Stack Icons -->
 <p align="center" style="margin-top:8px;">
