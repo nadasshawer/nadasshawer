@@ -24,7 +24,7 @@ background: linear-gradient(to right, #4DA3FF, #1F8FFF, #9AD0FF); -webkit-backgr
 
 <!-- About Me -->
 <p align="center" style="margin-top:12px;">
-  I’m an IT student at <b>BCIT</b> focused on <b>Data Engineering</b>, with a strong interest in cloud platforms<br/>
+  I’m an IT student at BCIT focused on <b>Data Engineering, with a strong interest in cloud platforms<br/>
   and building reliable, scalable systems that power analytics and real-world applications.
 </p>
 
