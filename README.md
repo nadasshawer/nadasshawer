@@ -4,7 +4,7 @@
 </p>
 
 <!-- Greeting -->
-<p align="center" style="font-family: 'Arial', sans-serif; font-weight:bold; font-size:36px; color:#4DA3FF; margin-bottom:0;">
+<p align="center" style="font-family: 'Arial', sans-serif; font-weight:bold; font-size:60px; color:#4DA3FF; margin-bottom:0;">
   Hi, I'm Nada
 </p>
 
@@ -31,7 +31,7 @@
 </p>
 
 <!-- My Stack Header -->
-<p align="center" style="font-family: 'Arial', sans-serif; font-weight:bold; font-size:26px; color:#1F8FFF; margin-top:16px;">
+<p align="center" style="font-family: 'Arial', sans-serif; font-weight:bold; font-size:35px; color:#1F8FFF; margin-top:16px;">
   My Stack
 </p>
 
