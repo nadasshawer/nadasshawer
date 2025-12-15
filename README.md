@@ -20,10 +20,8 @@
 </p>
 
 <!-- Contact Info as Emojis -->
-<a href="mailto:nadashawer@gmail.com">Email Me</a> &nbsp; • &nbsp; <a href="https://www.linkedin.com/in/nadasshawer">Let's Connect</a> &nbsp; • &nbsp; <a href="https://fuzzy-travelers-171675.framer.app">Digital Portfolio</a>
+<a align="center" href="mailto:nadashawer@gmail.com">Email Me</a> &nbsp; • &nbsp; <a align="center" href="https://www.linkedin.com/in/nadasshawer">Let's Connect</a> &nbsp; • &nbsp; <a align="center" href="https://fuzzy-travelers-171675.framer.app">Digital Portfolio</a>
 </p>
-
-<hr>
 
 <!-- About Me -->
 <p align="center" style="margin-top:12px;">
