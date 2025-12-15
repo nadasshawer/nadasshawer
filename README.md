@@ -3,15 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header"/>
 </p>
 
-<!-- Greeting with cursive font -->
-<h1 align="center" style="font-family: 'Brush Script MT', cursive; font-weight:bold; font-size:50px; color:#4DA3FF; margin-bottom:0;">
+<!-- Greeting with cursive gradient font -->
+<h1 align="center" style="font-family: 'Brush Script MT', cursive; font-weight:bold; font-size:50px; 
+background: linear-gradient(to right, #4DA3FF, #1F8FFF, #9AD0FF); -webkit-background-clip: text; color: transparent; margin-bottom:0;">
   Hi, I'm Nada
 </h1>
-
-<!-- Fancy Animated Line right under greeting -->
-<p align="center" style="margin-top:4px;">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9AD0FF,50:4DA3FF,100:1F8FFF&height=6&section=header"/>
-</p>
 
 <!-- Role and Short Bio -->
 <p align="center" style="margin-top:8px;">
@@ -19,11 +15,11 @@
   <i>Building scalable data pipelines & cloud-based systems</i>
 </p>
 
-<!-- Contact Info as centered emojis -->
+<!-- Contact Info Links -->
 <p align="center" style="font-size:22px; margin-top:8px;">
-  <a href="mailto:nadashawer@gmail.com" style="text-decoration:none;">✉️</a> &nbsp; • &nbsp;
-  <a href="https://www.linkedin.com/in/nadasshawer" style="text-decoration:none;">🔗</a> &nbsp; • &nbsp;
-  <a href="https://fuzzy-travelers-171675.framer.app" style="text-decoration:none;">💻</a>
+  <a href="mailto:nadashawer@gmail.com" style="text-decoration:none;">✉️ Email Me</a> &nbsp; • &nbsp;
+  <a href="https://www.linkedin.com/in/nadasshawer" style="text-decoration:none;">🔗 Let's Connect</a> &nbsp; • &nbsp;
+  <a href="https://fuzzy-travelers-171675.framer.app" style="text-decoration:none;">💻 Digital Portfolio</a>
 </p>
 
 <!-- About Me -->
@@ -32,9 +28,9 @@
   and building reliable, scalable systems that power analytics and real-world applications.
 </p>
 
-<!-- My Stack Header with gradient color -->
-<h2 align="center" style="font-family: 'Brush Script MT', cursive; font-weight:bold; font-size:32px; 
-  background: linear-gradient(to right, #4DA3FF, #1F8FFF, #9AD0FF); -webkit-background-clip: text; color: transparent; margin-top:20px;">
+<!-- My Stack Header with gradient -->
+<h2 align="center" style="font-family: 'Brush Script MT', cursive; font-weight:bold; font-size:36px; 
+background: linear-gradient(to right, #4DA3FF, #1F8FFF, #9AD0FF); -webkit-background-clip: text; color: transparent; margin-top:20px;">
   My Stack
 </h2>
 
@@ -46,9 +42,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="42"/>
-</p>
-
-<!-- Custom-width horizontal line under stack -->
-<p align="center" style="margin-top:8px;">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4DA3FF,50:1F8FFF,100:9AD0FF&height=6&width=320"/>
 </p>
