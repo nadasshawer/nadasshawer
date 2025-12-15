@@ -1,28 +1,46 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header&text=Hi%20I'm%20Nada&fontSize=32&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=000000&text=Hi%20I'm%20Nada&fontSize=36&animation=fadeIn"/>
 </p>
 
 <p align="center">
   <b>CIT Student @ BCIT</b> · <b>Aspiring Data Engineer</b><br/>
-  Building scalable data pipelines & cloud-based systems
+  <i>Building scalable data pipelines & cloud-based systems</i>
 </p>
 
+<!-- animated underline -->
 <p align="center">
-  <!-- Tech Stack -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=header"/>
 </p>
 
+<!-- About Me -->
 <p align="center">
-  <!-- Socials -->
+  I’m an IT student at <b>BCIT</b> focused on <b>Data Engineering</b>, with a strong interest in cloud platforms<br/>
+  and building reliable, scalable systems that power analytics and real-world applications.
+</p>
+
+---
+
+### 🧰 Tech Stack
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/>
+</p>
+
+---
+
+### 🌐 Connect With Me
+<p align="center">
   <a href="https://www.linkedin.com/in/nadasshawer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
-  <a href="https://YOUR-PORTFOLIO.com](https://fuzzy-travelers-171675.framer.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/>
+  <a href="https://stackoverflow.com/users/YOUR-ID">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" width="40"/>
+  </a>
+  <a href="https://fuzzy-travelers-171675.framer.app">
+    <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" width="38"/>
   </a>
 </p>
