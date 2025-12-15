@@ -6,7 +6,7 @@
 <!-- Greeting with cursive gradient font -->
 <h1 align="center" style="font-family: 'Brush Script MT', cursive; font-weight:bold; font-size:50px; 
 background: linear-gradient(to right, #4DA3FF, #1F8FFF, #9AD0FF); -webkit-background-clip: text; color: transparent; margin-bottom:0;">
-  Hi, I'm Nada
+  Hi, I'm Nada!
 </h1>
 
 <!-- Role and Short Bio -->
@@ -17,9 +17,9 @@ background: linear-gradient(to right, #4DA3FF, #1F8FFF, #9AD0FF); -webkit-backgr
 
 <!-- Contact Info Links -->
 <p align="center" style="font-size:22px; margin-top:8px;">
-  <a href="mailto:nadashawer@gmail.com" style="text-decoration:none;">✉️ Email Me</a> &nbsp; • &nbsp;
-  <a href="https://www.linkedin.com/in/nadasshawer" style="text-decoration:none;">🔗 Let's Connect</a> &nbsp; • &nbsp;
-  <a href="https://fuzzy-travelers-171675.framer.app" style="text-decoration:none;">💻 Digital Portfolio</a>
+  <a href="mailto:nadashawer@gmail.com" style="text-decoration:none;">Email Me</a> &nbsp; • &nbsp;
+  <a href="https://www.linkedin.com/in/nadasshawer" style="text-decoration:none;">Let's Connect</a> &nbsp; • &nbsp;
+  <a href="https://fuzzy-travelers-171675.framer.app" style="text-decoration:none;">My Digital Portfolio</a>
 </p>
 
 <!-- About Me -->
