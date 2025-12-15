@@ -1,10 +1,10 @@
 <!-- Top Colorful Header Banner (no text) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header"/>
 </p>
 
-<!-- Greeting -->
-<h1 align="center" style="font-family: 'Arial', sans-serif; font-weight:bold; color:#4DA3FF; margin-bottom:0;">
+<!-- Greeting with cursive font -->
+<h1 align="center" style="font-family: 'Brush Script MT', cursive; font-weight:bold; font-size:50px; color:#4DA3FF; margin-bottom:0;">
   Hi, I'm Nada
 </h1>
 
@@ -19,8 +19,11 @@
   <i>Building scalable data pipelines & cloud-based systems</i>
 </p>
 
-<!-- Contact Info as Emojis -->
-<a align="center" href="mailto:nadashawer@gmail.com">Email Me</a> &nbsp; • &nbsp; <a align="center" href="https://www.linkedin.com/in/nadasshawer">Let's Connect</a> &nbsp; • &nbsp; <a align="center" href="https://fuzzy-travelers-171675.framer.app">Digital Portfolio</a>
+<!-- Contact Info as centered emojis -->
+<p align="center" style="font-size:22px; margin-top:8px;">
+  <a href="mailto:nadashawer@gmail.com" style="text-decoration:none;">✉️</a> &nbsp; • &nbsp;
+  <a href="https://www.linkedin.com/in/nadasshawer" style="text-decoration:none;">🔗</a> &nbsp; • &nbsp;
+  <a href="https://fuzzy-travelers-171675.framer.app" style="text-decoration:none;">💻</a>
 </p>
 
 <!-- About Me -->
@@ -29,17 +32,23 @@
   and building reliable, scalable systems that power analytics and real-world applications.
 </p>
 
-<!-- My Stack Header -->
-<h2 align="center" style="font-family: 'Arial', sans-serif; font-weight:bold; color:#1F8FFF; margin-top:16px;">
+<!-- My Stack Header with gradient color -->
+<h2 align="center" style="font-family: 'Brush Script MT', cursive; font-weight:bold; font-size:32px; 
+  background: linear-gradient(to right, #4DA3FF, #1F8FFF, #9AD0FF); -webkit-background-clip: text; color: transparent; margin-top:20px;">
   My Stack
 </h2>
 
 <!-- Tech Stack Icons -->
-<p align="center" style="margin-top:8px;">
+<p align="center" style="margin-top:12px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="42"/>
+</p>
+
+<!-- Custom-width horizontal line under stack -->
+<p align="center" style="margin-top:8px;">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4DA3FF,50:1F8FFF,100:9AD0FF&height=6&width=320"/>
 </p>
