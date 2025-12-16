@@ -17,9 +17,9 @@ background: linear-gradient(to right, #4DA3FF, #1F8FFF, #9AD0FF); -webkit-backgr
 
 <!-- Contact Info Links -->
 <p align="center" style="font-size:22px; margin-top:8px;">
-  <a href="mailto:nadashawer@gmail.com" style="text-decoration:none;">Email Me</a> &nbsp; • &nbsp;
-  <a href="https://www.linkedin.com/in/nadasshawer" style="text-decoration:none;">Let's Connect</a> &nbsp; • &nbsp;
-  <a href="https://fuzzy-travelers-171675.framer.app" style="text-decoration:none;">My Digital Portfolio</a>
+  <a href="mailto:nadashawer2023@gmail.com" target="_blank" style="text-decoration:none;">Email Me</a> &nbsp; • &nbsp;
+  <a href="https://www.linkedin.com/in/nadasshawer" target="_blank" style="text-decoration:none;">Let's Connect</a> &nbsp; • &nbsp;
+  <a href="https://fuzzy-travelers-171675.framer.app" target="_blank" style="text-decoration:none;">My Digital Portfolio</a>
 </p>
 
 <!-- About Me -->
