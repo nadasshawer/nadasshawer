@@ -1,5 +1,3 @@
-## Hi, I’m Nada
-
 <!-- Top Colorful Header Banner (no text) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header"/>
