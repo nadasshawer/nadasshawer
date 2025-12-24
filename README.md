@@ -15,18 +15,22 @@ background: linear-gradient(to right, #4DA3FF, #1F8FFF, #9AD0FF); -webkit-backgr
   <i>Building scalable data pipelines & cloud-based systems</i>
 </p>
 
-<!-- LinkedIn Badge -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadasshawer)
+<p align="center">
+  <!-- LinkedIn Badge -->
+  <a href="https://www.linkedin.com/in/nadasshawer" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&rounded=true" alt="LinkedIn"/>
+  </a>
 
-<!-- Digital Portfolio Badge -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white)](https://(https://fuzzy-travelers-171675.framer.app/))
+  <!-- Portfolio Badge -->
+  <a href="https://fuzzy-travelers-171675.framer.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=developer-mode&logoColor=white&rounded=true" alt="Portfolio"/>
+  </a>
 
-<!-- Python Badge -->
-[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
-
-<!-- Git Badge -->
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-
+  <!-- Email Badge -->
+  <a href="mailto:nadashawer2023@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF4500?style=for-the-badge&logo=gmail&logoColor=white&rounded=true" alt="Email Me"/>
+  </a>
+</p>
 
 <!-- About Me -->
 <p align="center" style="margin-top:12px;">
