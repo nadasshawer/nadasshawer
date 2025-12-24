@@ -24,7 +24,7 @@ background: linear-gradient(to right, #4DA3FF, #1F8FFF, #9AD0FF); -webkit-backgr
 
   <!-- Portfolio Badge -->
   <a href="https://fuzzy-travelers-171675.framer.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badgee" alt="My Digital Portfolio"/>
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge" alt="My Digital Portfolio"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
