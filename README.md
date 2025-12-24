@@ -17,7 +17,7 @@ background: linear-gradient(to right, #4DA3FF, #1F8FFF, #9AD0FF); -webkit-backgr
 
 <p align="center">
   <!-- LinkedIn Badge -->
-  <a href="https://www.linkedin.com/in/nadasshawer" target="_blank"> Let's Connect
+  <a href="https://www.linkedin.com/in/nadasshawer" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/>
   </a>
   &nbsp;
