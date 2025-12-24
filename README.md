@@ -15,6 +15,10 @@ background: linear-gradient(to right, #4DA3FF, #1F8FFF, #9AD0FF); -webkit-backgr
   <i>Building scalable data pipelines & cloud-based systems</i>
 </p>
 
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+[![Email](https://img.shields.io/badge/Email-Me-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
 <!-- Contact Info Links -->
 <p align="center" style="font-size:22px; margin-top:8px;">
   <a href="mailto:nadashawer2023@gmail.com" style="text-decoration:none;">Email Me</a> &nbsp; • &nbsp;
