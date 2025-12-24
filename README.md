@@ -16,28 +16,16 @@ background: linear-gradient(to right, #4DA3FF, #1F8FFF, #9AD0FF); -webkit-backgr
 </p>
 
 <p align="center">
-  <!-- LinkedIn Badge -->
-  <a href="https://www.linkedin.com/in/nadasshawer" target="_blank" style="text-decoration:none;">
-    <div style="display:inline-block; background-color:#0A66C2; color:white; padding:10px 20px; border-radius:12px; font-family:sans-serif; font-weight:bold; margin-right:15px; box-shadow:0 2px 5px rgba(0,0,0,0.2);">
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="20" style="vertical-align:middle; margin-right:8px;">
-      LinkedIn
-    </div>
+  <a href="https://www.linkedin.com/in/nadasshawer" target="_blank">
+    <img src="assets/badges/linkedin.png" alt="LinkedIn" width="120"/>
   </a>
-
-  <!-- Portfolio Badge -->
-  <a href="https://fuzzy-travelers-171675.framer.app/" target="_blank" style="text-decoration:none;">
-    <div style="display:inline-block; background-color:#000000; color:white; padding:10px 20px; border-radius:12px; font-family:sans-serif; font-weight:bold; margin-right:15px; box-shadow:0 2px 5px rgba(0,0,0,0.2);">
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/globe.svg" alt="Portfolio" width="20" style="vertical-align:middle; margin-right:8px;">
-      Portfolio
-    </div>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://fuzzy-travelers-171675.framer.app/" target="_blank">
+    <img src="assets/badges/portfolio.png" alt="Portfolio" width="120"/>
   </a>
-
-  <!-- Email Badge -->
-  <a href="mailto:nadashawer2023@gmail.com" style="text-decoration:none;">
-    <div style="display:inline-block; background-color:#FF4500; color:white; padding:10px 20px; border-radius:12px; font-family:sans-serif; font-weight:bold; box-shadow:0 2px 5px rgba(0,0,0,0.2);">
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" width="20" style="vertical-align:middle; margin-right:8px;">
-      Email Me
-    </div>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:nadashawer2023@gmail.com">
+    <img src="assets/badges/email.png" alt="Email Me" width="120"/>
   </a>
 </p>
 
