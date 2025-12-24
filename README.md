@@ -18,19 +18,19 @@ background: linear-gradient(to right, #4DA3FF, #1F8FFF, #9AD0FF); -webkit-backgr
 <p align="center">
   <!-- LinkedIn Badge -->
   <a href="https://www.linkedin.com/in/nadasshawer" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- big gap -->
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- smaller gap -->
 
   <!-- Portfolio Badge -->
   <a href="https://fuzzy-travelers-171675.framer.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=developer-mode&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- big gap -->
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- smaller gap -->
 
   <!-- Email Badge -->
   <a href="mailto:nadashawer2023@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FF4500?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
+    <img src="https://img.shields.io/badge/-Email-FF4500?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
   </a>
 </p>
 
