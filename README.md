@@ -17,18 +17,20 @@ background: linear-gradient(to right, #4DA3FF, #1F8FFF, #9AD0FF); -webkit-backgr
 
 <p align="center">
   <!-- LinkedIn Badge -->
-  <a href="https://www.linkedin.com/in/nadasshawer" target="_blank" style="margin-right:10px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius:10px;"/>
+  <a href="https://www.linkedin.com/in/nadasshawer" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- big gap -->
 
   <!-- Portfolio Badge -->
-  <a href="https://fuzzy-travelers-171675.framer.app/" target="_blank" style="margin-right:10px;">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=developer-mode&logoColor=white" alt="Portfolio" style="border-radius:10px;"/>
+  <a href="https://fuzzy-travelers-171675.framer.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=developer-mode&logoColor=white" alt="Portfolio"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- big gap -->
 
   <!-- Email Badge -->
   <a href="mailto:nadashawer2023@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FF4500?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" style="border-radius:10px;"/>
+    <img src="https://img.shields.io/badge/Email-FF4500?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
   </a>
 </p>
 
