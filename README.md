@@ -5,7 +5,7 @@
 
 <!-- Greeting with cursive gradient font -->
 <h1 align="center" style="font-family: 'Brush Script MT', cursive; font-weight:bold; font-size:50px; 
-background: linear-gradient(to right, #4DA3FF, #1F8FFF, #9AD0FF); -webkit-background-clip: text; color: transparent; margin-bottom:0;">
+background: linear-gradient(to right, #4DA3FF, #1F8FFF, #9AD0FF); -webkit-background-clip: text; color: transparent; margin-bottom:0; font-size:50px">
   Hi, I'm Nada
 </h1>
 
