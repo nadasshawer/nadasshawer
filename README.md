@@ -11,7 +11,7 @@ background: linear-gradient(to right, #4DA3FF, #1F8FFF, #9AD0FF); -webkit-backgr
 
 <!-- Role and Short Bio -->
 <p align="center" style="margin-top:8px;">
-  <b>CIT Student @ BCIT</b>  &nbsp; • &nbsp; <b>Aspiring Data Engineer</b><br/>
+  <b>CIT Student @ BCIT</b>  &nbsp; • &nbsp; <b>Data & Cloud Enthusiast</b><br/>
   <i>Building scalable data pipelines & cloud-based systems</i>
 </p>
 
