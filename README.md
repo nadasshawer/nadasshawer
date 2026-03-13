@@ -11,7 +11,7 @@ background: linear-gradient(to right, #4DA3FF, #1F8FFF, #9AD0FF); -webkit-backgr
 
 <!-- Role and Short Bio -->
 <p align="center" style="margin-top:8px;">
-  <b>CIT Student @ BCIT</b>  &nbsp; • &nbsp; <b>Platform & Systems Enthusiast</b><br/>
+  <b>CIT Student @ BCIT</b>  &nbsp; • &nbsp; <b>Platform & Systems Engineering</b><br/>
   <i>Building scalable infrastructure and automated solutions for a cloud-first world</i>
 </p>
 
