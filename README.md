@@ -11,8 +11,8 @@ background: linear-gradient(to right, #4DA3FF, #1F8FFF, #9AD0FF); -webkit-backgr
 
 <!-- Role and Short Bio -->
 <p align="center" style="margin-top:8px;">
-  <b>CIT Student @ BCIT</b>  &nbsp; • &nbsp; <b>Data & Cloud Enthusiast</b><br/>
-  <i>Building scalable data pipelines & cloud-based systems</i>
+  <b>CIT Student @ BCIT</b>  &nbsp; • &nbsp; <b>Platform & Systems Enthusiast</b><br/>
+  <i>Building scalable infrastructure and automated solutions for a cloud-first world</i>
 </p>
 
 <p align="center">
@@ -36,8 +36,8 @@ background: linear-gradient(to right, #4DA3FF, #1F8FFF, #9AD0FF); -webkit-backgr
 
 <!-- About Me -->
 <p align="center" style="margin-top:12px;">
-  I’m an IT student at BCIT focused on Data Engineering, with a strong interest in cloud platforms<br/>
-  and building reliable, scalable systems that power analytics and real-world applications.
+  I’m an IT student at BCIT focused on Platform Engineering, with a strong interest in cloud platforms<br/>
+  and building reliable, scalable systems that power infrastructure and real-world applications.
 </p>
 
 <!-- My Stack Header with gradient -->
