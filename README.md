@@ -41,7 +41,7 @@ background: linear-gradient(to right, #4DA3FF, #1F8FFF, #9AD0FF); -webkit-backgr
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,ff0000,ff5f5f,ff0000&height=2&section=header&width=1000&fontSize=0" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&section=header&width=500&fontSize=0" />
 </p>
 
 <!-- My Stack -->
@@ -67,7 +67,7 @@ background: linear-gradient(to right, #4DA3FF, #1F8FFF, #9AD0FF); -webkit-backgr
 
 <!--GitHub Stats-->
 ### GitHub Stats
-
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=nadasshawer&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadasshawer&layout=compact&theme=radical" alt="languages" /></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=nadasshawer&show_icons=true&theme=dark&hide_border=false&border_color=00e5ff&border_radius=10&title_color=87ceeb&icon_color=00e5ff&text_color=ffffff&bg_color=0d1117" height="150" />&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadasshawer&layout=compact&theme=dark&hide_border=false&border_color=00e5ff&border_radius=10&title_color=87ceeb&text_color=ffffff&bg_color=0d1117" height="150" />
+</p>
