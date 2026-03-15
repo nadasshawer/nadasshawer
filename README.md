@@ -68,6 +68,5 @@ background: linear-gradient(to right, #4DA3FF, #1F8FFF, #9AD0FF); -webkit-backgr
 ### GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nadasshawer&show_icons=true&theme=merko&hide_border=true&title_color=ff0000&icon_color=ff0000" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadasshawer&layout=compact&theme=merko&hide_border=true&title_color=ff0000" height="150" alt="languages" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=nadasshawer&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadasshawer&layout=compact&theme=radical" alt="languages" /></p>
