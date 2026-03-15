@@ -36,7 +36,7 @@ background: linear-gradient(to right, #4DA3FF, #1F8FFF, #9AD0FF); -webkit-backgr
 
 <!-- About Me -->
 <p align="center" style="margin-top:12px;">
-  I’m an CS student at BCIT focused on Platform Engineering, with a strong interest in cloud platforms<br/>
+  I’m a CS student at BCIT focused on Platform Engineering, with a strong interest in cloud platforms<br/>
   and building reliable, scalable systems that power infrastructure and real-world applications.
 </p>
 
