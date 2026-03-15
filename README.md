@@ -40,6 +40,7 @@ background: linear-gradient(to right, #4DA3FF, #1F8FFF, #9AD0FF); -webkit-backgr
   and building reliable, scalable systems that power infrastructure and real-world applications.
 </p>
 
+<!--Horizontal Line-->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=1&section=header&width=500&fontSize=0" />
 </p>
