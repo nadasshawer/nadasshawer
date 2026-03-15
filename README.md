@@ -40,12 +40,7 @@ background: linear-gradient(to right, #4DA3FF, #1F8FFF, #9AD0FF); -webkit-backgr
   and building reliable, scalable systems that power infrastructure and real-world applications.
 </p>
 
-<!-- My Stack Header with gradient -->
-<h2 align="center" style="font-family: 'Brush Script MT', cursive; font-weight:bold; font-size:36px; 
-background: linear-gradient(to right, #4DA3FF, #1F8FFF, #9AD0FF); -webkit-background-clip: text; color: transparent; margin-top:20px;">
-  My Stack
-</h2>
-
+<!-- My Stack -->
 ### Languages and Tools
 
 <p align="left">
@@ -63,8 +58,7 @@ background: linear-gradient(to right, #4DA3FF, #1F8FFF, #9AD0FF); -webkit-backgr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" alt="css3" />
 </p>
 
-### GitHub Stats
-
+<!--GitHub Stats-->
 ### GitHub Stats
 
 <p align="left">
