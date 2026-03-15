@@ -36,7 +36,7 @@ background: linear-gradient(to right, #4DA3FF, #1F8FFF, #9AD0FF); -webkit-backgr
 
 <!-- About Me -->
 <p align="center" style="margin-top:12px;">
-  I’m an IT student at BCIT focused on Platform Engineering, with a strong interest in cloud platforms<br/>
+  I’m an CS student at BCIT focused on Platform Engineering, with a strong interest in cloud platforms<br/>
   and building reliable, scalable systems that power infrastructure and real-world applications.
 </p>
 
@@ -58,4 +58,6 @@ background: linear-gradient(to right, #4DA3FF, #1F8FFF, #9AD0FF); -webkit-backgr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42"/>
 </p>
