@@ -69,6 +69,6 @@ background: linear-gradient(to right, #4DA3FF, #1F8FFF, #9AD0FF); -webkit-backgr
 <!--GitHub Stats-->
 ### GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nadasshawer&show_icons=true&theme=dark&hide_border=false&border_color=00e5ff&border_radius=10&title_color=87ceeb&icon_color=00e5ff&text_color=ffffff&bg_color=0d1117" height="150" />&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadasshawer&layout=compact&theme=dark&hide_border=false&border_color=00e5ff&border_radius=10&title_color=87ceeb&text_color=ffffff&bg_color=0d1117" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nadasshawer&show_icons=true&theme=tokyonight&hide_border=false&border_color=70a5fd&border_radius=5&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0f0f14&show_rank=true" height="150" />&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadasshawer&layout=compact&theme=tokyonight&hide_border=false&border_color=70a5fd&border_radius=5&title_color=70a5fd&text_color=38bdae&bg_color=0f0f14&hide_progress=true" height="150" />
 </p>
