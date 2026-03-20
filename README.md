@@ -72,3 +72,4 @@ background: linear-gradient(to right, #4DA3FF, #1F8FFF, #9AD0FF); -webkit-backgr
   <img src="https://github-readme-stats.vercel.app/api?username=nadasshawer&show_icons=true&theme=tokyonight&hide_border=false&border_color=70a5fd&border_radius=5&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0f0f14&show_rank=true" height="150" />&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadasshawer&layout=compact&theme=tokyonight&hide_border=false&border_color=70a5fd&border_radius=5&title_color=70a5fd&text_color=38bdae&bg_color=0f0f14&hide_progress=false&include_all_commits=true&count_private=true" height="150" />
 </p>
+
