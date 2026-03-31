@@ -16,12 +16,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/>
   </a>
   &nbsp;
-
-  <a href="https://fuzzy-travelers-171675.framer.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge" alt="My Digital Portfolio"/>
-  </a>
-  &nbsp;
-
+  
   <a href="mailto:nadashawer2023@gmail.com">
     <img src="https://img.shields.io/badge/-Email-FF4500?style=for-the-badge" alt="Email Me"/>
   </a>
