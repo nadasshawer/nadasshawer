@@ -55,6 +55,6 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Vortex (_in-progress_)](https://github.com/nadasshawer/vortex-developer-tool)** | Professional Linux automation system for environment setups. | Bash, Linux CLI |
+| **[Vortex](https://github.com/nadasshawer/vortex-developer-tool)** | Linux automation system for environment setups. | Bash, Linux CLI, Docker |
 | **[Upscale](https://github.com/nadasshawer/code-upscale-extension)** | AI-powered VS Code extension for architectural refactoring. | TypeScript, VS Code API |
-| **[Financial Ledger (_in-progress_)](https://github.com/nadasshawer/financial-ledger-system)** | High-performance C++ engine bridged to Node.js. | C++, Node.js, SQLite |
+| **[Financial Ledger System (_in-progress_)](https://github.com/nadasshawer/financial-ledger-system)** | High-performance C++ engine bridged to Node.js. | C++, Node.js, SQLite |
