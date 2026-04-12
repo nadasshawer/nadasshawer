@@ -23,7 +23,7 @@
 </p>
 
 <p align="center" style="margin-top:12px;">
-  I’m a CIT student at BCIT focused on Platform Engineering, with a strong interest in cloud platforms<br/>
+  I’m a Computer Information Technology student focused on Platform Engineering and DevOps, with a strong interest in cloud platforms<br/>
   and building reliable, scalable systems that power infrastructure and real-world applications.
 </p>
 
