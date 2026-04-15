@@ -42,6 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" alt="html5" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" alt="css3" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="42" alt="express" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" width="42" alt="git" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="42" alt="sqlite" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="42" alt="mssql" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42" alt="mongodb" /> &nbsp;
@@ -49,6 +50,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" alt="linux" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="42" alt="bash" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" alt="git" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" alt="git" /> &nbsp;
 </p>
 
 ### Featured Projects
@@ -57,4 +59,3 @@
 | :--- | :--- | :--- |
 | **[Vortex](https://github.com/nadasshawer/vortex-developer-tool)** | Linux automation system for environment setups. | Bash, Linux CLI, Docker |
 | **[Upscale](https://github.com/nadasshawer/code-upscale-extension)** | AI-powered VS Code extension for architectural refactoring. | TypeScript, VS Code API |
-| **[Financial Ledger System (_in-progress_)](https://github.com/nadasshawer/financial-ledger-system)** | High-performance C++ engine bridged to Node.js. | C++, Node.js, SQLite |
