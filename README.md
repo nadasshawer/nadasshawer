@@ -28,7 +28,7 @@
 
 <br>
 
-## 🛠️ Languages & Tools
+## My Stack
 
 ### **Languages**
 <p>
@@ -61,13 +61,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" width="42"/> &nbsp;
 </p>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[Vortex](https://github.com/nadasshawer/vortex-developer-tool)** | Linux automation system for environment setups. | Bash, Linux CLI, Docker |
 | **[Upscale](https://github.com/nadasshawer/code-upscale-extension)** | AI-powered VS Code extension for architectural refactoring. | TypeScript, VS Code API |
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</p>
