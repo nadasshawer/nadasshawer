@@ -22,7 +22,7 @@
 </p>
 
 <p align="center" style="margin-top:12px;">
-  I’m a Computer Information Technology student focused on Platform Engineering and DevOps.<br/>
+  I’m a Computer Information Technology student focused on Platform & Systems Engineering.<br/>
   I build reliable, scalable systems, automation tools, and cloud‑ready infrastructure that empower developers and real-world applications.
 </p>
 
@@ -34,8 +34,8 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/> &nbsp;
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/> &nbsp; -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="42"/> &nbsp;
 </p>
 
