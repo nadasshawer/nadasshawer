@@ -23,10 +23,8 @@
 
 <p align="center" style="margin-top:12px;">
   I’m a Computer Information Technology student focused on Platform & Systems Engineering.<br/>
-  I build reliable, scalable systems, automation tools, and cloud‑ready infrastructure that empower developers and real-world applications.
+  I like to build reliable, scalable systems, automation tools, and cloud‑ready infrastructure that empower developers and real-world applications.
 </p>
-
-<br>
 
 ## My Stack
 
