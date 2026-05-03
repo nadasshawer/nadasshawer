@@ -52,10 +52,10 @@
 <table border="0" style="border: none; background: transparent;">
   <tr style="border: none; background: transparent;">
     <td style="border: none; background: transparent;">
-      <img src="https://github-readme-stats.vercel.app/api?username=nadasshawer&show_icons=true&hide_border=true&bg_color=00000000&title_color=4DA3FF&text_color=9AD0FF&icon_color=1F8FFF" />
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=nadasshawer&show_icons=true&hide_border=true&bg_color=00000000&title_color=4DA3FF&text_color=9AD0FF&icon_color=1F8FFF" />
     </td>
     <td style="border: none; background: transparent;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadasshawer&layout=compact&hide_border=true&langs_count=6&bg_color=00000000&title_color=4DA3FF&text_color=9AD0FF&icon_color=1F8FFF" />
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nadasshawer&layout=compact&hide_border=true&langs_count=6&bg_color=00000000&title_color=4DA3FF&text_color=9AD0FF&icon_color=1F8FFF" />
     </td>
   </tr>
 </table>
