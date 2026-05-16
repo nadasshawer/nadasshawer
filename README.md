@@ -25,9 +25,9 @@
   I’m a Computer Information Technology student progressing toward the Bachelor of Science in Applied Computer Science with a clear focus on Platform & Systems Engineering. I like to build reliable, scalable systems, automation tools, and cloud‑ready infrastructure that empower developers and real-world applications.
 </p>
 
-## Languages & Tools
+## My Tech Stack
 
-### 💻 Languages
+### Languages
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" title="Python"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png" height="42" title="C"> &nbsp;
