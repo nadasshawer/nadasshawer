@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center" style="margin-top:8px;">
-  <b>Computer Information Tech @BCIT </b>  &nbsp; • &nbsp; <b>Platform, Cloud & Systems Engineering</b><br/>
+  <b>Computer Information Technology Student </b>  &nbsp; • &nbsp; <b>Platform, Cloud & Systems Engineering</b><br/>
   <i>Building scalable infrastructure and automated solutions for a cloud-first world</i>
 </p>
 
