@@ -3,11 +3,11 @@
 </p>
 
 <h1 align="center" style="font-family: 'Segoe UI', sans-serif; font-weight:900; background: linear-gradient(to right, #4DA3FF, #1F8FFF, #9AD0FF); -webkit-background-clip: text; color: transparent; margin-bottom:0; font-size:90px">
-  Hi, I'm Nada
+  Hii, I'm Nada
 </h1>
 
 <p align="center" style="margin-top:8px;">
-  <b>Computer Information Technology Student </b>  &nbsp; • &nbsp; <b>Platform, Cloud & Systems Engineering</b><br/>
+  <b>Computer Information Technology & CS Student </b>  &nbsp; • &nbsp; <b>Platform, Cloud & Systems Engineering</b><br/>
   <i>Building scalable infrastructure and automated solutions for a cloud-first world</i>
 </p>
 
@@ -32,7 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" title="Python"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png" height="42" title="C"> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42" title="C++"/> &nbsp;
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="42" title="Go"/> &nbsp; -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="42" title="Go"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" title="TypeScript"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" title="JavaScript"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" title="HTML5"/> &nbsp;
