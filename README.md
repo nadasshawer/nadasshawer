@@ -3,11 +3,11 @@
 </p>
 
 <h1 align="center" style="font-family: 'Segoe UI', sans-serif; font-weight:900; background: linear-gradient(to right, #4DA3FF, #1F8FFF, #9AD0FF); -webkit-background-clip: text; color: transparent; margin-bottom:0; font-size:90px">
-  Hii, I'm Nada
+  Hi, I'm Nada
 </h1>
 
 <p align="center" style="margin-top:8px;">
-  <b>Computer Information Technology & CS Student </b>  &nbsp; • &nbsp; <b>Platform, Cloud & Systems Engineering</b><br/>
+  <b>Computer Information Technology/CS Student </b>  &nbsp; • &nbsp; <b>Platform, Cloud & Systems Engineering</b><br/>
   <i>Building scalable infrastructure and automated solutions for a cloud-first world</i>
 </p>
 
