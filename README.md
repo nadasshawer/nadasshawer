@@ -58,7 +58,25 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42" title="MongoDB"/> &nbsp;
 </p>
 
-<br>
+## My Background
+
+| Section | Description |
+| :--- | :--- |
+| **Education** | BCIT: Computer Information Technology ➔ B.Sc. Applied Computer Science |
+| **Learning Stack** | Core Systems Engineering (`Go` \| `Kubernetes` \| `CI/CD Pipelines`) |
+| **Next Project** | Distributed Redis Clone from scratch in Go |
+
+## Recent Projects
+
+### **vortex-developer-tool**
+  - **Stack:** Bash
+  - A modular Bash-based CLI tool designed for automated environment provisioning, system health monitoring, and seamless Docker containerization
+### **flux-budget-tracker**
+  - **Stack:** C++, CMake
+  - A high-performance financial ledger system tracking expenses and income through a custom native terminal user interface (TUI)
+### **bcit-parkly**
+  - **Stack:** TypeScript, HTML, CSS, Node.js, Express.js, MySQL
+  - A campus parking web application providing real-time mapping and spot reservation management
 
 <table border="0" style="border: none; background: transparent;">
   <tr style="border: none; background: transparent;">
