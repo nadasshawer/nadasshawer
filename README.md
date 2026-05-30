@@ -62,7 +62,7 @@
 
 | Section | Description |
 | :--- | :--- |
-| **Education** | BCIT: Computer Information Technology ➔ B.Sc. Applied Computer Science |
+| **Education** | Computer Information Technology ➔ B.Sc. Applied Computer Science |
 | **Currently Learning** | Systems Engineering (`Go` \| `Docker` \| `Kubernetes` \| `Terraform` \| `Data Structures & Algorithms` \| `CI/CD`) |
 | **Next Project** | Distributed Redis Clone from scratch in Go |
 
