@@ -25,6 +25,12 @@
   I’m a Computer Information Technology student progressing toward the Bachelor of Science in Applied Computer Science with a clear focus on Platform & Systems Engineering. I like to build reliable, scalable systems, automation tools, and cloud‑ready infrastructure that empower developers and real-world applications.
 </p>
 
+## My Background
+
+- **Education:** Computer Information Technology ➔ B.Sc. in Applied Computer Science 
+- **Currently Learning:** Core Platform & Systems Engineering Skills (Go, Docker, Kubernetes, Terraform, Data Structures & Algorithms, CI/CD)
+- **Next Project:** Distributed Redis Clone from scratch in Golang
+
 ## My Tech Stack
 
 ### Languages
@@ -57,12 +63,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="42" title="MS SQL Server"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42" title="MongoDB"/> &nbsp;
 </p>
-
-## My Background
-
-- **Education:** Computer Information Technology ➔ B.Sc. in Applied Computer Science 
-- **Currently Learning:** Core Platform & Systems Engineering Skills (Go, Docker, Kubernetes, Terraform, Data Structures & Algorithms, CI/CD)
-- **Next Project:** Distributed Redis Clone from scratch in Golang
 
 <br>
 
