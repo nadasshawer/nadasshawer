@@ -60,11 +60,9 @@
 
 ## My Background
 
-| Section | Description |
-| :--- | :--- |
-| **Education** | Computer Information Technology ➔ B.Sc. Applied Computer Science |
-| **Currently Learning** | Systems Engineering (`Go` \| `Docker` \| `Kubernetes` \| `Terraform` \| `Data Structures & Algorithms` \| `CI/CD`) |
-| **Next Project** | Distributed Redis Clone from scratch in Go |
+- **Education:** Computer Information Technology ➔ B.Sc. in Applied Computer Science 
+- **Currently Learning:** Core Platform & Systems Engineering Skills (Go, Docker, Kubernetes, Terraform, Data Structures & Algorithms, CI/CD)
+- **Next Project:** Distributed Redis Clone from scratch in Golang
 
 <br>
 
