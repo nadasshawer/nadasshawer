@@ -41,7 +41,7 @@
 
 - **Education:** Computer Information Technology ➔ B.Sc. in Applied Computer Science 
 - **Currently Learning:** Core Platform & Systems Engineering Skills (Go, Docker, Kubernetes, Terraform, Data Structures & Algorithms, CI/CD)
-- **Next Project:** Distributed Redis Clone from scratch in Golang
+- **Next Project:** Web app in Golang
 
 ## My Tech Stack
 
