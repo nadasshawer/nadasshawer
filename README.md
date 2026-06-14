@@ -40,8 +40,8 @@
 ## My Background
 
 - **Education:** Computer Information Technology ➔ B.Sc. in Applied Computer Science 
-- **Currently Learning:** Core Platform & Systems Engineering Skills (Go, Docker, Kubernetes, Terraform, Data Structures & Algorithms, CI/CD)
-- **Next Project:** Web app in Golang
+- **Currently Learning:** Core Software Engineering Skills (Go, Docker, DSA, CI/CD)
+- **Next Project:** System in Golang
 
 ## My Tech Stack
 
