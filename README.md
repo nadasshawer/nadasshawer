@@ -33,15 +33,21 @@
   &nbsp;
 </p>
 
-<p align="center" style="margin-top:12px;">
-  I’m a Computer Information Technology student progressing toward the Bachelor of Science in Applied Computer Science with a clear focus on Platform & Systems Engineering. I like to build reliable, scalable systems, automation tools, and cloud‑ready infrastructure that empower developers and real-world applications.
-</p>
+## About Me
 
-## My Background
+I'm a Computer Information Technology student at BCIT progressing toward Applied Computer Science, focused on Platform, Cloud, and Systems Engineering. I enjoy building scalable backend systems, automation tools, and cloud-native infrastructure. My goal is to develop software that is reliable, efficient, and production-ready.
 
-- **Education:** Computer Information Technology ➔ B.Sc. in Applied Computer Science 
-- **Currently Learning:** Core Software Engineering Skills (Go, Docker, DSA, CI/CD)
-- **Next Project:** System in Golang
+## Currently
+
+- Learning Go, Docker, AWS, and Data Structures & Algorithms  
+- Building backend and cloud-native projects  
+- Exploring CI/CD pipelines and infrastructure automation  
+- Preparing for Software / Platform Engineering internships  
+
+## My Journey
+
+- 🎓 CIT @ BCIT → B.Sc. Applied Computer Science  
+- ⚙️ Interests: DevOps • Software/Systems/Platform Engineering • Cloud Infrastructure • Backend Development
 
 ## My Tech Stack
 
