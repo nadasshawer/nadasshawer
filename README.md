@@ -46,7 +46,7 @@ I'm a Computer Information Technology student at BCIT progressing toward Applied
 
 ## Journey
 
-- 🎓 CIT @ BCIT → B.Sc. Applied Computer Science  
+- 🎓 CIT @ BCIT → B.Sc. Computer Science  
 - ⚙️ Interests: DevOps • Software/Systems/Platform Engineering • Cloud Infrastructure • Backend Development
 
 ## My Tech Stack
