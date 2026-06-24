@@ -35,7 +35,7 @@
 
 ## About Me
 
-I'm a Computer Information Technology student at BCIT progressing toward Applied Computer Science, focused on Platform, Cloud, and Systems Engineering. I enjoy building scalable backend systems, automation tools, and cloud-native infrastructure. My goal is to develop software that is reliable, efficient, and production-ready.
+I'm a Computer Information Technology student at BCIT progressing toward Applied Computer Science, focused on Platform, Cloud, and Systems Engineering with a strong interest in MLOps. I enjoy building scalable backend systems, automation tools, and cloud-native infrastructure. My goal is to develop software that is reliable, efficient, and production-ready.
 
 ## Currently
 
