@@ -39,15 +39,15 @@ I'm a Computer Information Technology student at BCIT progressing toward Applied
 
 ## Currently
 
-- Learning Go, Docker, AWS, and Data Structures & Algorithms  
-- Building backend and cloud-native projects  
+- Learning Backend Developemnt, Cloud, and Data Structures & Algorithms  
+- Building a mini distributed logging and monitoring system
 - Exploring CI/CD pipelines and infrastructure automation  
 - Preparing for Software / Platform Engineering internships  
 
 ## Journey
 
 - 🎓 CIT @ BCIT → B.Sc. Computer Science  
-- ⚙️ Interests: DevOps • Software/Systems/Platform Engineering • Cloud Infrastructure • Backend Development
+- ⚙️ **Interests:** DevOps • Software/Systems/Platform Engineering • Cloud Infrastructure • Backend Development
 
 ## My Tech Stack
 
@@ -84,16 +84,3 @@ I'm a Computer Information Technology student at BCIT progressing toward Applied
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" title="PostgreSQL"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="42" title="Prisma"/> &nbsp;
 </p>
-
-<br>
-
-<table border="0" style="border: none; background: transparent;">
-  <tr style="border: none; background: transparent;">
-    <td style="border: none; background: transparent;">
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=nadasshawer&show_icons=true&hide_border=true&bg_color=00000000&title_color=4DA3FF&text_color=9AD0FF&icon_color=1F8FFF" />
-    </td>
-    <td style="border: none; background: transparent;">
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nadasshawer&layout=compact&hide_border=true&langs_count=6&bg_color=00000000&title_color=4DA3FF&text_color=9AD0FF&icon_color=1F8FFF" />
-    </td>
-  </tr>
-</table>
