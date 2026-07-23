@@ -35,7 +35,7 @@
 
 ## About Me
 
-I'm a Computer Information Technology student at BCIT progressing toward Applied Computer Science, focused on Platform, Cloud, and Systems Engineering with a strong interest in MLOps. I enjoy building scalable backend systems, automation tools, and cloud-native infrastructure. My goal is to develop software that is reliable, efficient, and production-ready.
+I'm a Computer Information Technology student at BCIT progressing toward Applied Computer Science, focused on DevOps, Platform, and Systems Engineering with a strong interest in backend development & MLOps. I enjoy building scalable backend systems, automation tools, and cloud-native infrastructure. My goal is to develop software that is reliable, efficient, and production-ready.
 
 ## Currently
 
@@ -56,7 +56,7 @@ I'm a Computer Information Technology student at BCIT progressing toward Applied
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" title="Python"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png" height="42" title="C"> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42" title="C++"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="42" title="Go"/> &nbsp;
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="42" title="Go"/> &nbsp; -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" title="TypeScript"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" title="JavaScript"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" title="HTML5"/> &nbsp;
